@@ -1,1 +1,1 @@
-# mecanica_os
+# mecanica_osa

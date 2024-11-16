@@ -82,3 +82,6 @@ Abra o arquivo do esquema conceitual (esquema_conceitual.png) para visualizar o 
 Tabela de Referência: Foi assumido que a tabela de referência de mão de obra está embutida nos valores de "Serviços".
 Equipes de Mecânicos: Cada OS é atribuída a uma equipe, representada por um grupo de mecânicos, mas não detalha a composição da equipe.
 Faltas de Informação: Onde a narrativa não especificou informações adicionais, foi assumido o contexto padrão do domínio da oficina mecânica.
+
+![MecanicaOS](https://github.com/user-attachments/assets/d0ed6cec-034c-4828-859c-9306490a45d8)
+
